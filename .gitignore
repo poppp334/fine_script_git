@@ -16,3 +16,4 @@ configs/client_*.yaml
 configs/*_client.yaml
 .trust/
 unsloth_compiled_cache/
+deliverable_*.zip
