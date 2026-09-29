@@ -1,0 +1,11 @@
+unsloth
+trl
+peft
+bitsandbytes
+accelerate
+datasets
+transformers
+pyyaml
+pandas
+openpyxl
+pytest
